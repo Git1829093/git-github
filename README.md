@@ -1,3 +1,3 @@
 # git-github
 github-demo
-This is for learning purpose
+This is for learning purposes
